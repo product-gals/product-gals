@@ -22,4 +22,7 @@ Open to Senior PM roles + fractional engagements
 
 Focused on: PLG, activation/growth, or early-stage SaaS. Special interest will be taken in the travel or fitness space regardless of stage. 
 
+Location preferences:
+Open to work with companies remotely and on site/hybrid (depending on needs and the role). 
+
 [LinkedIn](https://www.linkedin.com/in/meagan-glenn/) • Email: meag.glenn@gmail.com
