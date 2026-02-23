@@ -17,16 +17,13 @@ I specialize in helping early-stage B2B + B2C SaaS companies transitioning from 
 
 🤝 Connect
 ---
-Status: 
-
+*Status:*
 Open to Senior PM roles + fractional engagements
 
-Focused on: 
-
+*Focused on:*
 PLG, activation/growth, or early-stage SaaS. Special interest will be taken in the travel or fitness space regardless of stage. 
 
-Location preferences:
-
+*Location preferences:*
 Open to work with companies remotely and on site/hybrid (depending on needs and the role). 
 
 [LinkedIn](https://www.linkedin.com/in/meagan-glenn/) • Email: meag.glenn@gmail.com
