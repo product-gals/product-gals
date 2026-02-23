@@ -21,7 +21,7 @@ I specialize in helping early-stage B2B + B2C SaaS companies transitioning from 
 Open to Senior PM roles + fractional engagements
 
 *Focused on:*
-PLG, activation/growth, or early-stage SaaS. Special interest will be taken in the travel or fitness space regardless of stage. 
+PLG, activation/growth, or early-stage SaaS. Special interest will be taken to the travel, voice AI, or fitness space regardless of stage. 
 
 *Location preferences:*
 Open to work with companies remotely and on site/hybrid (depending on needs and the role). 
