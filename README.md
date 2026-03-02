@@ -21,4 +21,4 @@ fractional pm work + senior pm roles. AI, growth, activation, early-stage saas. 
 
 ## let's connect
 
-[email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meagannglenn.substack.com)
+[email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
