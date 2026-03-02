@@ -1,29 +1,25 @@
-## Hi, I'm Meagan 👋
-I'm a Product Manager who actually builds. After years of leading PLG transformations at early-stage SaaS companies, I'm excited by AI, so I started shipping code too.
+##  hi, i'm meagan 👋
+product manager who actually builds. spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. currently building my own products + taking fractional pm work.
 
-🛠️ What I'm Building
+🛠️ what i'm working on right now
 ---
-🗂️ Prodfolio
+🗂️ prodfolio
 
-A portfolio platform built for Product Managers, because PMs deserve a way to show their work that doesn't require a design degree or a dev team. Built as the solo technical founder using AI-assisted development.
+a portfolio platform for pms. 125+ users, 5 paying customers.
 
-🐾 Remember My Pet
+🐾 remember my pet
 
-A memorial platform to celebrate the pets we've loved and lost.
+a memorial space for the pets we've loved and lost.
 
-📈 What I Do as a PM
+📈 what i'm good at
 ---
-I specialize in helping early-stage B2B + B2C SaaS companies transitioning from sales-led to product-led growth. I've led hundreds of UX interviews, driven a 92% increase in activation, and generated a 14% increase in revenue through PLG transformations.
+PLG transformations. activation/growth strategy. early-stage saas. AI strategy. taking raw signals and turning them into product strategy.
 
-🤝 Connect
+🤝 open to
 ---
 *Status:*
-Open to Senior PM roles + fractional engagements
+fractional pm work + senior pm roles. AI, growth, activation, early-stage saas. remote or on-site. travel, voice ai, fitness spaces preferred.
 
-*Focused on:*
-PLG, activation/growth, or early-stage SaaS. Special interest will be taken to the travel, voice AI, or fitness space regardless of stage. 
+## let's connect
 
-*Location preferences:*
-Open to work with companies remotely and on site/hybrid (depending on needs and the role). 
-
-[LinkedIn](https://www.linkedin.com/in/meagan-glenn/) • Email: meag.glenn@gmail.com
+[email](mailto:meag.glenn@gmail.com) • [linkedin](https://linkedin.com/in/meagannglenn) • [substack](https://meagannglenn.substack.com)
