@@ -17,7 +17,6 @@ PLG transformations. activation/growth strategy. early-stage saas. AI strategy. 
 
 🤝 open to
 ---
-*Status:*
 fractional pm work + senior pm roles. AI, growth, activation, early-stage saas. remote or on-site. travel, voice ai, fitness spaces preferred.
 
 ## let's connect
