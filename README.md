@@ -1,5 +1,5 @@
 ##  hi, i'm meagan 👋
-product manager who actually builds. spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. currently building my own products + taking fractional pm work.
+product manager who actually builds. spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. currently building my own products + taking fractional pm work. always open to the right ft role. 
 
 🛠️ what i'm working on right now
 ---
