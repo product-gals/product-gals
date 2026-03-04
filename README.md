@@ -1,5 +1,7 @@
 ##  hi, i'm meagan 👋
-product manager who actually builds. spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. currently building my own products + taking fractional pm work. always open to the right ft role. 
+a product manager and cofounder shipping prodfolio, building AI products, and writing about what it actually looks like to go from idea to live product.
+
+i spent years at early-stage saas doing PLG transformations, activation/growth strategy, and user research. now i'm building my own products + taking fractional pm work.
 
 🛠️ what i'm working on right now
 ---
@@ -13,12 +15,21 @@ a memorial space for the pets we've loved and lost.
 
 📈 what i'm good at
 ---
-PLG transformations. activation/growth strategy. early-stage saas. AI strategy. taking raw signals and turning them into product strategy.
+PLG transformations. activation/growth strategy. early-stage saas. hundreds of user interviews. taking raw signals and turning them into product strategy. shipping real code + real products.
 
 🤝 open to
 ---
-fractional pm work + senior pm roles. AI, growth, activation, early-stage saas. remote or on-site. travel, voice ai, fitness spaces preferred.
+**how i help:**
+fractional pm engagements, full-time senior pm roles, or AI MVP builds
+
+**my strengths:**
+AI, growth, activation, early-stage saas
+
+**spaces i love:**
+travel and fitness/wellness/outdoor companies
+
+**locations:**
+remote, hybrid, or on-site
 
 ## let's connect
-
-[email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
+[portfolio](https://meaganglenn.me) • [email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
