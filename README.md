@@ -31,5 +31,6 @@ travel and fitness/wellness/outdoor companies
 **locations:**
 remote, hybrid, or on-site
 
-🔗 ## let's connect
+🔗 let's connect
+---
 [portfolio](https://meaganglenn.me) • [email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
