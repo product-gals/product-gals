@@ -20,7 +20,7 @@ PLG transformations. activation/growth strategy. early-stage saas. hundreds of u
 🤝 open to
 ---
 **how i help:**
-fractional pm engagements, full-time senior pm roles, or AI MVP builds
+fractional pm engagements or AI MVP builds
 
 **my strengths:**
 AI, growth, activation, early-stage saas
@@ -33,4 +33,4 @@ remote, hybrid, or on-site
 
 🔗 let's connect
 ---
-[portfolio](https://meaganglenn.me) • [email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
+• [website](https://justfractional.co/) • [portfolio](https://meaganglenn.me) • [email](mailto:meag.glenn@gmail.com) • [linkedin](https://www.linkedin.com/in/meagan-glenn/) • [substack](https://meaganglenn.substack.com/)
